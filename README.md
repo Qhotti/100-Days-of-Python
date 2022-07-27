@@ -1,4 +1,4 @@
 ﻿# 100-Days-of-Python
 
-Day 1: Completed - no issues
-Day 2: Completed - no issues, i should time my days.
+[Day 1](Day 1): Band Name Generator
+[Day 2](Day 2): Tip Calculator
