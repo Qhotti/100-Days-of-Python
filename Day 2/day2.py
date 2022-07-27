@@ -43,6 +43,7 @@
 
 
 #FINAL Challenge: Tip Calculator
+print('Tip Calculator')
 
 bill = float(input('How much was the bill? '))
 
@@ -54,7 +55,7 @@ tip_percentage = (tip / 100) + 1
 
 total = round((bill / split) * tip_percentage, 2)
 
-print(f"Each person pays {total}. ")
+print(f"Each person pays ${total}. ")
 
 
 
