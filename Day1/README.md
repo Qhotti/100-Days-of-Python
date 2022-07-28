@@ -1,1 +1,1 @@
-![](Band Name Generator.gif)
+![](Band_Name_Generator.gif)
