@@ -56,7 +56,6 @@
 #    print(f"Your BMI is {result} and you are clinically obese. GG ")
 
 #Challenge 3: Leap year Calculator, kinda rough but it works with 100% accuracy.
-
 #year = int(input("Which year do you want to check? "))
 #
 #leap1 = year % 4
@@ -74,9 +73,7 @@
 #                print('it is a leap year')
 #else:
 #    print('not a leap year')
-
 #better version of this (supplied by teach)
-
 #year = int(input("Which year do you want to check? "))
 #
 #if year % 4 == 0:
@@ -89,9 +86,7 @@
 #        print('leap year')
 #else:
 #    print('leap year')
-
-
-##rollercoaster with picture bill
+#rollercoaster with picture bill
 #print('Welcome to the rollercoaster!')
 #height = int(input('What is your height in cm? '))
 #
