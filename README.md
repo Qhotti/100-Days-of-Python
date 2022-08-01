@@ -6,3 +6,4 @@
 - [Day 4](Day4): Rock, Paper, Scissors Game
 - [Day 5](Day5): Password Generator
 - [Day 6](Day6): Maze Solver (was not able to do in my own ide)
+- [Day 7](Day7): Hangman Game
