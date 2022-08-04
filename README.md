@@ -9,3 +9,4 @@
 - [Day 7](Day7): Hangman Game
 - [Day 8](Day8): Caesars Cipher
 - [Day 9](Day9): Blind Auction
+- [Day 10](Day10): Calculator
