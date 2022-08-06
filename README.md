@@ -11,3 +11,4 @@
 - [Day 9](Day09): Blind Auction
 - [Day 10](Day10): Calculator
 - [Day 11](Day11): BlackJack Game
+- [Day 12](Day12): Number Guessing Game
