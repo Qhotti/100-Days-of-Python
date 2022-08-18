@@ -18,3 +18,4 @@
 - [Day 16](Day16): Coffee Machine Again
 - [Day 17](Day17): Quiz Game
 - [Day 18](Day18): Art GUI Project
+- [Day 19](Day19): Etch a Sketch and Turtle Race Game
