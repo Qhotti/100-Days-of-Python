@@ -19,3 +19,5 @@
 - [Day 17](Day17): Quiz Game
 - [Day 18](Day18): Art GUI Project
 - [Day 19](Day19): Etch a Sketch and Turtle Race Game
+- [Day 20](Day20): Snake Part 1
+- [Day 21](Day21): Snake Part 2
