@@ -1,5 +1,5 @@
-from turtle import Turtle, Screen
-X = 5
+from turtle import Turtle
+X = 0
 Y = 240
 ALIGNMENT = 'center'
 FONT = ('Arial', 30 , 'normal')
@@ -14,19 +14,20 @@ class ScoreBoard(Turtle):
         self.penup() 
         self.color('white')
         self.goto(X, Y)
-        self.write(f'Score: {self.score}', align=ALIGNMENT, font=FONT)
+        self.write(f'SCORE: {self.score}', align=ALIGNMENT, font=FONT)
         
         
     def game_over(self):
         self.hideturtle()
         self.penup() 
-        self.color('white')
+        self.color('black')
         self.goto(5,0)
         self.write(f'GAME OVER.', align=ALIGNMENT, font=FONT2)
         
     def score_increase(self):
         self.score += 1
         self.clear()
+        self.color('black')
         self.write(f'Score: {self.score}', align='center', font=('Arial', 30))
         
         
