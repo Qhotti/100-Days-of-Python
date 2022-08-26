@@ -21,4 +21,5 @@
 - [Day 19](Day19): Etch a Sketch and Turtle Race Game
 - [Day 20-21](Day20-21): Snake Part 1 and 2
 - [Day 22](Day22): Pong
-- [Day 23](Day23): 
+- [Day 23](Day23): Frogger
+- [Day 24](Day24): Better Snake Game and Letter Name Merge
