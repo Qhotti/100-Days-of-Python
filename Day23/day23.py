@@ -28,10 +28,10 @@ while game_is_on:
     car.move_car()
     
     #collision with car
-    # for cars in car.cars:
-    #     if cars.distance(player) <= 20:
-    #         game_is_on = False
-    #         scoreboard.game_over()
+    for cars in car.cars:
+        if cars.distance(player) <= 20:
+            game_is_on = False
+            scoreboard.game_over()
             
     #finish line
     if player.is_at_finish_line():
