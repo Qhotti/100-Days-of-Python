@@ -23,4 +23,4 @@
 - [Day 22](Day22): Pong
 - [Day 23](Day23): Frogger
 - [Day 24](Day24): Better Snake Game and Letter Name Merge
-- [Day 25](Day25): Csv Files and U.S. Game
+- [Day 25](Day25): Csv Files
