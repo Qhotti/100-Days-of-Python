@@ -98,6 +98,8 @@ email_input.grid(column=1,row=2,columnspan=2,pady=5)
 password_input = Entry(width=23)
 password_input.grid(column=1,row=3,sticky=E)
 
+# ---------------------------BUTTONS-----------------------------------------------------#
+
 generate_password_button = Button(text='Generate Password', command=generate_password)
 generate_password_button.grid(column=2,row=3,padx=10,pady=5)
 
