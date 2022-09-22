@@ -27,5 +27,6 @@
 - [Day 26](Day26): Nato Alphabet Conversion
 - [Day 27](Day27): Tkinter and miles to km calc
 - [Day 28](Day28): Pomodoro Timer
-- [Day 29](Day29): Password Manager and Password
+- [Day 29](Day29): Password Manager
+- [Day 29](Day29): JSON files and Better Password Manager
 
