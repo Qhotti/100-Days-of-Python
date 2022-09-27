@@ -30,4 +30,6 @@
 - [Day 29](Day29): Password Manager
 - [Day 30](Day30): JSON files and Better Password Manager
 - [Day 31](Day31): Flashcards
+- [Day 32](Day32): Sending Emails with Python
+- [Day 33](Day33): API and ISS location app
 
