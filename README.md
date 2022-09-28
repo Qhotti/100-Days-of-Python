@@ -32,4 +32,5 @@
 - [Day 31](Day31): Flashcards
 - [Day 32](Day32): Sending Emails with Python
 - [Day 33](Day33): API and ISS location app
+- [Day 33](Day33): Quiz App GUI with API
 
