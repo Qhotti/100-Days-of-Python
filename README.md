@@ -34,5 +34,6 @@
 - [Day 33](Day33): API and ISS location app
 - [Day 34](Day34): Quiz App GUI with API
 - [Day 35](Day35): Sending Texts with Python
+- [Day 36](Day36): Stock Trading News App
 
 
