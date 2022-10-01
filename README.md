@@ -35,5 +35,7 @@
 - [Day 34](Day34): Quiz App GUI with API
 - [Day 35](Day35): Sending Texts with Python
 - [Day 36](Day36): Stock Trading News App
+- [Day 37](Day37): Habit Tracker App
+
 
 
