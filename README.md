@@ -38,7 +38,8 @@
 - [Day 37](Day37): Habit Tracker App
 - [Day 38](Day38): Workout Tracker
 - [Day39-40](Day39-40): Flight Tracker
-- [Day 41](Day41): First HTML site
+- [Day 41](Day41): Beginner HTML
+- [Day 41](Day41): Intermediate HTML
 
 
 
