@@ -39,7 +39,9 @@
 - [Day 38](Day38): Workout Tracker
 - [Day39-40](Day39-40): Flight Tracker
 - [Day 41](Day41): Beginner HTML
-- [Day 41](Day41): Intermediate HTML
+- [Day 42](Day42): Intermediate HTML
+- [Day 43](Day43): Beginner CSS
+- [Day 44](Day44): Intermediate HTML
 
 
 
