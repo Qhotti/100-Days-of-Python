@@ -41,7 +41,7 @@
 - [Day 41](Day41): Beginner HTML
 - [Day 42](Day42): Intermediate HTML
 - [Day 43](Day43): Beginner CSS
-- [Day 44](Day44): Intermediate HTML
+- [Day 44](Day44): Intermediate CSS
 
 
 
