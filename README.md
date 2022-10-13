@@ -42,6 +42,7 @@
 - [Day 42](Day42): Intermediate HTML
 - [Day 43](Day43): Beginner CSS
 - [Day 44](Day44): Intermediate CSS
+- [Day 45](Day45): Beautiful Soup and 100 Best Movies of All Time
 
 
 
