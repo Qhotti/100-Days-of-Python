@@ -45,5 +45,6 @@
 - [Day 45](Day45): Beautiful Soup and 100 Best Movies of All Time
 - [Day 46](Day46): Top 100 Billboard into Spotify Playlist Bot
 - [Day 47](Day47): Automated Amazon Price Tracker
+- [Day 48](Day48): Advanced Web Scraping
 
 
