@@ -46,5 +46,6 @@
 - [Day 46](Day46): Top 100 Billboard into Spotify Playlist Bot
 - [Day 47](Day47): Automated Amazon Price Tracker
 - [Day 48](Day48): Advanced Web Scraping
+- [Day 49](Day49): LinkedIn Auto Follower
 
 
