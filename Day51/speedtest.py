@@ -50,6 +50,7 @@ class InternetSpeedTwitterBot:
         enter.click()
         time.sleep(1)
         enter.send_keys(f'Hey @MediaComUS why am I getting {self.down}mbps down and {self.up}mbps up if I pay for {self.PROMISED_DOWN}down and {self.PROMISED_UP}up.')
-        enter.send_keys(Keys.ENTER)
+        send = self.driver.find_element(By.XPATH,'//*[@id="react-root"]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/div/div[2]/div[1]/div/div/div/div[2]/div[3]/div/div/div[2]/div[3]/div/span/span')
+        send.click()
         
         
