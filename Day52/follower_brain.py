@@ -11,6 +11,7 @@ class InstaFollower:
         self.SIM_ACC = 'rap'
     
     def find_followers(self):
+        self.driver.get('https://www.instagram.com')
         search = self.driver.find_element(By.XPATH,'//*[@id="mount_0_0_bL"]/div/div/div/div[1]/div/div/div/div[1]/section/nav/div[2]/div/div/div[2]/div[1]/div')
 
         search.click()
