@@ -50,6 +50,8 @@
 - [Day 50](Day50): didn't want to make a tinder
 - [Day 51](Day51): Twitter Bot
 - [Day 52](Day52): Instagram Bot
+- [Day 53](Day53): Zillow Bot
+- [Day 54](Day54): Intro to Flask
 
 
 
