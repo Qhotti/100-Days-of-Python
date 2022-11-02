@@ -1,0 +1,44 @@
+body{
+    background-color: #F7C59F;
+    
+}
+img{
+    width: 153px;
+    height: 153px;
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.text{
+    color: #004E89;
+}
+.text2{
+    color: #004E89;
+    text-align: center;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    width: 10%;
+}
+
+.table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 15px;
+}
+.top_header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.top_words{
+    margin-left: 20px;
+    text-align: center;
+}
