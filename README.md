@@ -53,6 +53,8 @@
 - [Day 53](Day53): Zillow Bot
 - [Day 54](Day54): Intro to Flask
 - [Day 55](Day55): Flask higher and lower game
+- [Day 56](Day56): Flask Intro Card
+- [Day 57](Day57): Jinja Blog
 
 
 
