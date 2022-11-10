@@ -1,0 +1,215 @@
+body {
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', bold;
+}
+
+h2 {
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+
+p {
+    color: #8f8f8f;
+    font-size: 1.3rem;
+    font-family: 'Montserrat';
+}
+
+
+/* headings */
+
+.big-heading {
+    color: white;
+    padding: 10% 0%;
+    font-size: 4rem;
+    line-height: 1.5;
+}
+
+.section-heading {
+
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+.cta-heading {
+    color: white;
+    font-family: Montserrat, black;
+    padding: 3%;
+}
+
+
+
+/* sections */
+
+.colored-section {
+    background-color: #ff4c68;
+    color: white;
+}
+
+.white-section {
+    background-color: white;
+    color: black;
+}
+
+.colored-section#testimonials {
+    background-color: #ef8172;
+    color: white;
+}
+
+/* title section */
+
+#title .container-fluid {
+    padding: 3% 15% 7%;
+    text-align: left;
+}
+
+@media (max-width:1030px) {
+
+    .iphone-img {
+        position: static;
+        width: 50%;
+        transform: rotate(0deg);
+    }
+
+    #title {
+        text-align: left;
+    }
+
+}
+
+.title-div {
+    padding-top: 2%;
+}
+
+.iphone {
+    padding-left: 10%;
+
+}
+
+.iphone-img {
+    padding-top: 2%;
+    width: 20%;
+    transform: rotate(25deg);
+    position: absolute;
+}
+
+.button-1 {
+    margin-right: 1rem;
+}
+
+.brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+}
+
+.navbar2 {
+    font-size: 1.5rem;
+    padding-left: 1.5rem;
+}
+
+
+
+
+
+
+/* feature section */
+
+#features {
+    position: relative;
+    z-index: 1;
+}
+
+.features {
+
+    padding-bottom: 5%;
+}
+
+.feature-title {
+    font-size: 2rem;
+}
+
+.icon {
+    color: #ef8172;
+    font-size: 4rem;
+    padding: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+/* testimonial section */
+
+.testimonial-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.testimonial-text {
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+#press {
+    padding-bottom: 3%;
+    background-color: #ef8172;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+
+/* pricing section */
+
+
+#pricing {
+    padding: 100px;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+.card-title {
+    font-size: 2rem;
+}
+
+.price-text {
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+/* footer */
+
+#footer {
+    padding: 2% 10%;
+}
+
+.footer {
+    font-size: 1.2rem;
+}
+
+.foot-icon {
+    color: black;
+    padding: .8%;
+}
