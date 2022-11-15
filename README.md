@@ -56,6 +56,8 @@
 - [Day 56](Day56): Flask Intro Card
 - [Day 57](Day57): Jinja Blog
 - [Day 58](Day58): Tindog website made with Bootstrap
+- [Day 59](Day59): Updated Blog with bootstrap
+- [Day 60](Day60): Post request with working contact form
 
 
 
