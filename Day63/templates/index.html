@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Library</title>
+</head>
+<body>
+<h1>My Library</h1>
+    <ul>
+        {% if books %}
+        {%for t in books%}
+        <li><a href="/delete/{{t['id']}}">Delete</a> - {{t['title']}} - {{t['author']}} - {{t['rating']}}/10 - <a href="/edit/{{t['id']}}">Change Rating</a></li>
+        {%endfor%}
+        {%else%}
+        <p>Library is empty.</p>
+        {%endif%}
+    </ul>
+    
+<a href="add">Add New Book</a>
+</body>
+</html>
